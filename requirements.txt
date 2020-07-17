@@ -1,0 +1,7 @@
+catboost
+matplotlib
+numpy
+pandas
+seaborn
+sklearn
+tqdm
