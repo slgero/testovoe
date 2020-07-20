@@ -1,3 +1,6 @@
 [submodule "AccentureDSTestCase"]
 	path = AccentureDSTestCase
 	url = https://github.com/kolya95/AccentureDSTestCase
+[submodule "korpus-test-task"]
+	path = korpus-test-task
+	url = https://github.com/DenisVasyov/korpus-test-task
