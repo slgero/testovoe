@@ -1,0 +1,3 @@
+[submodule "AccentureDSTestCase"]
+	path = AccentureDSTestCase
+	url = https://github.com/kolya95/AccentureDSTestCase
