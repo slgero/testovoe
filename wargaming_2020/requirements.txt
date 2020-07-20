@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+pmdarima
+iso3166
+category-encoders
+sklearn
+pyodx
