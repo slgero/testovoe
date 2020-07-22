@@ -7,7 +7,6 @@
 * [Corpus](https://github.com/DenisVasyov/korpus-test-task/tree/a079e7d1911cfab62121535c8e2fd0a9476c3344)
 * [Haensel AMS](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/Haensel-AMS)
 * [OLX-Hermes](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/OLX-Hermes)
-* [Gismart](https://github.com/slgero/testovoe/tree/master/gismart_2020)
 * [NeuroTrade](https://github.com/slgero/testovoe/tree/master/NeuroTrade)
 * [Spectrm](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/Spectrm)
 * [Wargaming](https://github.com/slgero/testovoe/tree/master/wargaming_2020)
