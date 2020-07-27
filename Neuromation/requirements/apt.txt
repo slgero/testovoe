@@ -1,0 +1,7 @@
+rsync
+git
+curl
+tmux
+vim
+htop
+unzip

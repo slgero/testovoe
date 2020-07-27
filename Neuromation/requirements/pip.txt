@@ -1,0 +1,10 @@
+albumentations==0.3.1
+dataclasses==0.6
+future==0.17.1
+jupyterlab==1.0.9
+pandas==0.25.1
+scikit-learn==0.21.2
+tensorboard==1.14.0
+torch==1.2.0
+torchvision==0.4.0
+tqdm==4.32.2
