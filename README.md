@@ -3,6 +3,7 @@
 ### Компании:
 * [Accenture](https://github.com/kolya95/AccentureDSTestCase/tree/1c02aaf377d3c6ea73b4d5c8a2af97db11d20e9e)
 * [AUTO1](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/auto1)
+* [BHV Tech Development](https://github.com/slgero/testovoe/tree/master/BHV%20Tech%20Development)
 * [the-SAAS-co](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/the-SAAS-co)
 * [Corpus](https://github.com/DenisVasyov/korpus-test-task/tree/a079e7d1911cfab62121535c8e2fd0a9476c3344)
 * [Haensel AMS](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/Haensel-AMS)
