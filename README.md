@@ -23,7 +23,9 @@
 * [Вопросы на интервью с ответами \[ENG\]](https://github.com/alexeygrigorev/data-science-interviews/)
 * [41 вопрос на собеседовании, тоже с ответами \[ENG\]](https://www.springboard.com/blog/machine-learning-interview-questions/)
 * [Ещё 26 вопросов на собеседовании \[ENG\]](https://medium.com/analytics-vidhya/test-your-skills-26-data-science-interview-questions-answers-69cb2b223e57)
-* 109 вопросов [E
+* [109 вопросов \[ENG\]](https://dzone.com/articles/109-data-science-interview-questions-and-answers)
+* [Сборник теоретических задач, книга, \[RUS\]](https://drive.google.com/file/d/1r2bmQtIxlr8J-TpBeFi4CWzbChJG4iHe/view)
+* 
 
 ### Поддержать проект🤗:
 Присылайте ваши тестовые задания!
@@ -31,5 +33,5 @@
 * Данные на диск и ссылку в описание
 * Если пришлёте ещё и решение - замечательно 🚀
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjU0MTI2NV19
+eyJoaXN0b3J5IjpbMjAzNTMwNzk2XX0=
 -->
