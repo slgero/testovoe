@@ -20,9 +20,10 @@
 
 
 ### Материалы для подготовки к собеседованию:
-* [Вопросы на интервью с ответами [ENG]](https://github.com/alexeygrigorev/data-science-interviews/)
+* [Вопросы на интервью с ответами \[ENG\]](https://github.com/alexeygrigorev/data-science-interviews/)
 * [41 вопрос на собеседовании, тоже с ответами \[ENG\]](https://www.springboard.com/blog/machine-learning-interview-questions/)
-* Ещё 
+* [Ещё 26 вопросов на собеседовании \[ENG\]](https://medium.com/analytics-vidhya/test-your-skills-26-data-science-interview-questions-answers-69cb2b223e57)
+* 109 вопросов [E
 
 ### Поддержать проект🤗:
 Присылайте ваши тестовые задания!
@@ -30,5 +31,5 @@
 * Данные на диск и ссылку в описание
 * Если пришлёте ещё и решение - замечательно 🚀
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjEyNzU2N119
+eyJoaXN0b3J5IjpbMTI1MjU0MTI2NV19
 -->
