@@ -12,8 +12,8 @@
 * [NeuroTrade](https://github.com/slgero/testovoe/tree/master/NeuroTrade)
 * [PeakData AG](https://github.com/slgero/testovoe/tree/master/PeakData%20AG)
 * [Physician Partners](https://github.com/slgero/testovoe/tree/master/Physician%20Partners "Physician Partners")
-* 
 * [Spectrm](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/Spectrm)
+* [the-SAAS-co](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/the-SAAS-co)
 * [Wargaming](https://github.com/slgero/testovoe/tree/master/wargaming_2020)
 * [Северсталь](https://github.com/slgero/testovoe/tree/master/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%B0%D0%BB%D1%8C)
 * [СКБ Контур](https://github.com/slgero/testovoe/tree/master/%D0%A1%D0%9A%D0%91%20%D0%9A%D0%BE%D0%BD%D1%82%D1%83%D1%80)
@@ -37,5 +37,5 @@
 * Данные на диск и ссылку в описание
 * Если пришлёте ещё и решение - замечательно 🚀
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjQ3MDgzNSw5OTQzMjU4ODNdfQ==
+eyJoaXN0b3J5IjpbLTEzOTUyOTUxNDEsOTk0MzI1ODgzXX0=
 -->
