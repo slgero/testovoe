@@ -30,6 +30,7 @@
 * [Ещё один хороший тренажёр, но уже с ответами \[ENG\]](https://interviewing.fyi/interview_questions)
 * [53 вопроса для DS по Python \[RUS\]](https://habr.com/ru/company/mailru/blog/506824/)
 * [31 вопрос на интервью с ответами \[ENG\]](https://github.com/iamtodor/data-science-interview-questions-and-answers)
+* [План для подготовки к интеврью по машинному обучению \[ENG\]](https://github.com/khangich/machine-learning-interview)
 
 
 ### Поддержать проект🤗:
