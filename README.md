@@ -31,7 +31,8 @@
 * [53 вопроса для DS по Python \[RUS\]](https://habr.com/ru/company/mailru/blog/506824/)
 * [31 вопрос на интервью с ответами \[ENG\]](https://github.com/iamtodor/data-science-interview-questions-and-answers)
 * [План для подготовки к интеврью по машинному обучению \[ENG\]](https://github.com/khangich/machine-learning-interview)
-
+* [Data Science Interview Resources \[ENG\]](https://github.com/rbhatia46/Data-Science-Interview-Resources)
+* [Machine Learning Systems Design \[ENG\]](https://github.com/chiphuyen/machine-learning-systems-design)
 
 ### Поддержать проект🤗:
 Присылайте ваши тестовые задания!
