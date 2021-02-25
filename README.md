@@ -8,6 +8,7 @@
 * [BHV Tech Development](https://github.com/slgero/testovoe/tree/master/BHV%20Tech%20Development)
 * [Corpus](https://github.com/DenisVasyov/korpus-test-task/tree/a079e7d1911cfab62121535c8e2fd0a9476c3344)
 * [Diginetica](https://github.com/slgero/testovoe/tree/master/Diginetica "Diginetica")
+* [doc+](https://github.com/slgero/testovoe/tree/master/doc%2B "doc+")
 * [Gett](https://github.com/slgero/testovoe/tree/master/Gett "Gett")
 * [Haensel AMS](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/Haensel-AMS)
 * [OLX-Hermes](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/OLX-Hermes)
@@ -24,9 +25,12 @@
 * [Uber](https://github.com/slgero/testovoe/tree/master/Uber "Uber")
 * [Wargaming](https://github.com/slgero/testovoe/tree/master/wargaming_2020)
 * [Zyfra (Цифра)](https://github.com/slgero/testovoe/tree/master/Zyfra%20(%D0%A6%D0%B8%D1%84%D1%80%D0%B0) "Zyfra (Цифра)")
+* [БКС](https://github.com/slgero/testovoe/tree/master/%D0%91%D0%9A%D0%A1 "БКС")
+* [Ланит_ритейл](https://github.com/slgero/testovoe/tree/master/%D0%9B%D0%B0%D0%BD%D0%B8%D1%82_%D1%80%D0%B8%D1%82%D0%B5%D0%B9%D0%BB "Ланит_ритейл")
+* [МТС](https://github.com/slgero/testovoe/tree/master/%D0%9C%D0%A2%D0%A1 "МТС")
 * [Северсталь](https://github.com/slgero/testovoe/tree/master/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%B0%D0%BB%D1%8C)
 * [СКБ Контур](https://github.com/slgero/testovoe/tree/master/%D0%A1%D0%9A%D0%91%20%D0%9A%D0%BE%D0%BD%D1%82%D1%83%D1%80)
-* [МТС](https://github.com/slgero/testovoe/tree/master/%D0%9C%D0%A2%D0%A1)
+* [СКБ Контур 2](https://github.com/slgero/testovoe/tree/master/%D0%A1%D0%9A%D0%91%20%D0%9A%D0%BE%D0%BD%D1%82%D1%83%D1%80%202 "СКБ Контур 2")
 
 
 ### Материалы для подготовки к собеседованию:
@@ -49,5 +53,5 @@
 * Данные на диск и ссылку в описание
 * Если пришлёте ещё и решение - замечательно 🚀
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjk2NDk0Miw5OTQzMjU4ODNdfQ==
+eyJoaXN0b3J5IjpbMTcyMzkzNDcwMiw5OTQzMjU4ODNdfQ==
 -->
