@@ -1,5 +1,7 @@
 ### Тестовое задание в команду Big Data, PWC.
 
+Данные лежат [тут](https://disk.yandex.ru/d/7-pccELv6ZBK5g?w=1)
+
 **Task:**
 
 Due to the active expansion of communication services, many (not all) people buy more than one SIM card or use corporate SIM cards. The company is faced with the task of identifying subscribers (msisdn), which are, actually, one Person (person).

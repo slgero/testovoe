@@ -2,6 +2,7 @@
 
 Время на выполнение 2-3 дня. Решение - отредактированный jupyter notebook.
 
-* [Задание](https://github.com/aegorfk/testovoe/blob/master/Diginetica/Candidate%20Assessment%20Test.ipynb)
+* Задание находится в приложенном ноутбуке
+* Данные лежат [тут](https://disk.yandex.ru/d/urbmhMXk-5N4JA?w=1)
 
 * * * * * * * * * * * * * * *

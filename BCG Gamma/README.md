@@ -1,8 +1,10 @@
 ### BCG Gamma Moscow (2018 год)
 
 Время на выполнение примерно неделя
+[Данные](https://disk.yandex.ru/d/g6qj9wbqutud3A?w=1)
 
 Решение лучше присылать в виде jupyter notebook’а.
+
 * * * * * * * * * * * * * * *
 
 
