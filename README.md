@@ -4,8 +4,11 @@
 ### Компании:
 * [Accenture](https://github.com/kolya95/AccentureDSTestCase/tree/1c02aaf377d3c6ea73b4d5c8a2af97db11d20e9e)
 * [AUTO1](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/auto1)
+* [BCG Gamma](https://github.com/slgero/testovoe/tree/master/BCG%20Gamma "BCG Gamma")
 * [BHV Tech Development](https://github.com/slgero/testovoe/tree/master/BHV%20Tech%20Development)
 * [Corpus](https://github.com/DenisVasyov/korpus-test-task/tree/a079e7d1911cfab62121535c8e2fd0a9476c3344)
+* [Diginetica](https://github.com/slgero/testovoe/tree/master/Diginetica "Diginetica")
+* [Gett](https://github.com/slgero/testovoe/tree/master/Gett "Gett")
 * [Haensel AMS](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/Haensel-AMS)
 * [OLX-Hermes](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/OLX-Hermes)
 * [Neuromation](https://github.com/slgero/testovoe/tree/master/Neuromation)
@@ -40,5 +43,5 @@
 * Данные на диск и ссылку в описание
 * Если пришлёте ещё и решение - замечательно 🚀
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDI1NzQ1Nyw5OTQzMjU4ODNdfQ==
+eyJoaXN0b3J5IjpbLTE4MjM2MjY1NDIsOTk0MzI1ODgzXX0=
 -->
