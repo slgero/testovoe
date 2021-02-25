@@ -40,5 +40,5 @@
 * Данные на диск и ссылку в описание
 * Если пришлёте ещё и решение - замечательно 🚀
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUyOTUxNDEsOTk0MzI1ODgzXX0=
+eyJoaXN0b3J5IjpbMTI2NDI1NzQ1Nyw5OTQzMjU4ODNdfQ==
 -->
