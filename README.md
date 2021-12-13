@@ -9,6 +9,7 @@
 * [Corpus](https://github.com/DenisVasyov/korpus-test-task/tree/a079e7d1911cfab62121535c8e2fd0a9476c3344)
 * [Diginetica](https://github.com/slgero/testovoe/tree/master/Diginetica "Diginetica")
 * [doc+](https://github.com/slgero/testovoe/tree/master/doc%2B "doc+")
+* [GamblingPro](https://github.com/loverberg/sourcing_information)
 * [Gett](https://github.com/slgero/testovoe/tree/master/Gett "Gett")
 * [Haensel AMS](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/Haensel-AMS)
 * [OLX-Hermes](https://github.com/alexeygrigorev/datascience-recruitment-challenges/tree/master/OLX-Hermes)

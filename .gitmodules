@@ -7,3 +7,6 @@
 [submodule "datascience-recruitment-challenges"]
 	path = datascience-recruitment-challenges
 	url = https://github.com/alexeygrigorev/datascience-recruitment-challenges
+[submodule "GamblingPro"]
+	path = GamblingPro
+	url = https://github.com/loverberg/sourcing_information
