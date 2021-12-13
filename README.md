@@ -31,8 +31,6 @@
 * [Ланит_ритейл](https://github.com/slgero/testovoe/tree/master/%D0%9B%D0%B0%D0%BD%D0%B8%D1%82_%D1%80%D0%B8%D1%82%D0%B5%D0%B9%D0%BB "Ланит_ритейл")
 * [МТС](https://github.com/slgero/testovoe/tree/master/%D0%9C%D0%A2%D0%A1 "МТС")
 * [Сбер_Деловая_Среда](https://github.com/slgero/testovoe/tree/master/%D0%A1%D0%B1%D0%B5%D1%80_%D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D0%A1%D1%80%D0%B5%D0%B4%D0%B0 "Сбер_Деловая_Среда")
-* [Северсталь](https://github.com/slgero/testovoe/tree/master/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%B0%D0%BB%D1%8C)
-* [Северсталь_2](https://github.com/slgero/testovoe/tree/master/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%B0%D0%BB%D1%8C_2 "Северсталь_2")
 * [СКБ Контур](https://github.com/slgero/testovoe/tree/master/%D0%A1%D0%9A%D0%91%20%D0%9A%D0%BE%D0%BD%D1%82%D1%83%D1%80)
 * [СКБ Контур 2](https://github.com/slgero/testovoe/tree/master/%D0%A1%D0%9A%D0%91%20%D0%9A%D0%BE%D0%BD%D1%82%D1%83%D1%80%202 "СКБ Контур 2")
 
